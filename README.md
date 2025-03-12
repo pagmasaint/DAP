@@ -1,2 +1,2 @@
 # DAP
-This include 5 lab of DAP subject
+This include 5 labs of DAP subject
